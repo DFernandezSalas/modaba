@@ -12,5 +12,6 @@ public class modaba {
 			text = text + "a";
 			System.out.println(text);
 		}
+		reader.close();
 	}
 }
