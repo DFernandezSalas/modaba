@@ -8,7 +8,7 @@ public class modaba {
 		System.out.print("Pon un numero de 'y modabas': ");
 		int n = reader.nextInt();
 		String text = "y modab";
-		for(int i = 0;i<n;i++) {
+		for (int i = 0; i < n; i++) {
 			text = text + "a";
 			System.out.println(text);
 		}
